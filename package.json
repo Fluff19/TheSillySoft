@@ -1,13 +1,11 @@
 {
   "name": "sillysoft",
   "version": "1.0.0",
-  "description": "A minimal static website using HTML, CSS, and JavaScript",
-  "main": "index.html",
+  "description": "A static website for SillySoft using HTML, CSS, and minimal JavaScript",
   "scripts": {
     "start": "live-server ./",
-    "build": "echo 'No build step needed for SillySoft'"
+    "build": "echo 'No build step needed for Cloudflare Pages'"
   },
-  "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.2"
