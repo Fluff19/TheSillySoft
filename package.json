@@ -1,0 +1,12 @@
+{
+  "name": "sillysoft",
+  "version": "1.0.0",
+  "description": "Minimal HTML/CSS/JS website for SillySoft",
+  "scripts": {
+    "start": "live-server ./"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "license": "MIT"
+}
