@@ -1,12 +1,15 @@
 {
   "name": "sillysoft",
   "version": "1.0.0",
-  "description": "Minimal HTML/CSS/JS website for SillySoft",
+  "description": "A minimal static website using HTML, CSS, and JavaScript",
+  "main": "index.html",
   "scripts": {
-    "start": "live-server ./"
+    "start": "live-server ./",
+    "build": "echo 'No build step needed for SillySoft'"
   },
+  "author": "Your Name",
+  "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.2"
-  },
-  "license": "MIT"
+  }
 }
