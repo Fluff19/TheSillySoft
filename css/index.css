@@ -1,2 +1,9 @@
 h1 {
 text-align: center;
+border: solid;
+border-color: #000000;
+border-radius: 10px;
+}
+nav {
+background-color: #32a852;
+}
