@@ -11,12 +11,12 @@ nav {
 h2 {
   text-align: center;
 }
-body {  background-color: azure;
+body { 
+  background-color: azure;
 }
 main {
   background-color: azure;
 }
-a.ctl {
-  display: inline-block;
+section {
   text-align: center;
 }
