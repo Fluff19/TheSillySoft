@@ -8,18 +8,14 @@ nav {
   background-color: azure;
   text-align: center;
 }
-h4 {
-  text-align: center;
-}
 h2 {
   text-align: center;
 }
-h3 {
-  text-align: center;
-}
-body {
-  background-color: azure;
+body {  background-color: azure;
 }
 main {
   background-color: azure;
+}
+a {
+  text-align: center;
 }
