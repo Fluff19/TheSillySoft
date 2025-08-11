@@ -17,3 +17,9 @@ main {
 section {
   text-align: center;
 }
+button {
+  border: solid 5px;
+  border-radius: 10 px;
+  border-colour: #000000;
+  background-colour: #5d9afc;
+}
