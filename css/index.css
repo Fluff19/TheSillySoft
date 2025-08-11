@@ -18,7 +18,8 @@ section {
   text-align: center;
 }
 button {
-  border: solid 2px #5d9afc;
+  border: solid 2px;
   border-radius: 5px;
   border-colour: #000000;
+  colour: #5d9afc;
 }
