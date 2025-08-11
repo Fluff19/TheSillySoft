@@ -16,7 +16,9 @@ body {  background-color: azure;
 main {
   background-color: azure;
 }
-a {
-  text-align: center;
+.ctl {
   display: inline-block;
+  width: 200px;
+  text-align: center;
+  background: lightblue;
 }
