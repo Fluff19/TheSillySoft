@@ -10,7 +10,7 @@ h2 {
 }
 body { 
   background-color: azure;
-  font-family: "Helvetica", sans-serif;
+  font-family: Garamond, serif;
 }
 main {
   background-color: azure;
@@ -18,12 +18,16 @@ main {
 section {
   text-align: center;
 }
-button {
-  border: solid 2px;
-  border-radius: 5px;
-  border-colour: #000000;
-  colour: #5d9afc;
+a:link {
+  color: #0903ab;
+  text-decoration: underline;
 }
+a:active {
+  colour: #ff8c00;
+  text-decoration: underline;
+}
+a:vistied {
+  color: #5a0080;
 .para1 {
 top-padding: 200px;
 color: red;
